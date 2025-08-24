@@ -10,7 +10,7 @@ Some scripts clean up, some dig deep, others just make the terminal sparkle.
 
 ## Disclaimer⚠️ 
 
-All scripts in this repo are for educational purposes only.
+All script in here are for educational purposes only.
 The crimsonspells and [me](https://github.com/gauskxhaganth) as an author takes no responsibility for unintended consequences.
 Test responsibly — always summon your scripts inside your testlab/vm, not on your main-machine.
 
